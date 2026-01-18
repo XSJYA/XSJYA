@@ -1,15 +1,7 @@
-# 👋 你好，我是 [XSJYA]
+<div align="center">
+  
+# XSJYA
 
-[这里是介绍]
+![XSJYA](https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&auto=format&fit=crop&w=2000&q=80)
 
-## 🔧 技术栈
-![技术图标] [编程语言/工具列表]
-
-## 📊 GitHub 统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XSJYA&show_icons=true&theme=radical)
-
-## 📈 最常用语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XSJYA&layout=compact)
-
-## 🌟 最新项目
-[项目卡片展示]
+</div>
